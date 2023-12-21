@@ -1,4 +1,4 @@
-import PageDemo1 from "../PageDemo1";
+import React from 'react';
 
 function Profile(props) {
 	const { imageSrc = 'https://i.imgur.com/MK3eW3Am.jpg', key = null, customStyle = {} } = props;
